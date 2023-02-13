@@ -1,1 +1,1 @@
-# 3js
+# Three.js Journey Course

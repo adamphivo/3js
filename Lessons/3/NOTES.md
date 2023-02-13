@@ -1,0 +1,1 @@
+- A scene can be seen as a container. You place objects, models, lights, particules and you ask Three.js to render that scene.
