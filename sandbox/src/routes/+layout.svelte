@@ -1,5 +1,6 @@
 <script lang="ts">
-    import "../lib/styles.css";
+    import "normalize.css/normalize.css";
+    import "$lib/app.css";
 </script>
 
 <slot></slot>
